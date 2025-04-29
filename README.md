@@ -21,4 +21,8 @@ if __name__ == "__main__".
 
 
 Page view:
+
+
+
+
 <img width="571" alt="image" src="https://github.com/user-attachments/assets/e059737f-181d-4638-94cd-bf9bbf8797dd" />
