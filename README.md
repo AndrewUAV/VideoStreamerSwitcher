@@ -7,11 +7,11 @@ Therefore, to ensure proper functionality, the system was designed so that each 
 However, on a regular PC, it's possible to display two video streams at the same time without issues.
 To use the code, follow these steps:
 
-### Download the code.
-
-Install the required libraries:
- 2.1. sudo apt install python3-flask
- 2.2. sudo apt install python3-opencv
+### Using code.
+1. Download code.
+2. Install the required libraries:
+2.1. sudo apt install python3-flask
+2.2. sudo apt install python3-opencv
 
 After installing the libraries, you can run the code.
 If you want to change the IP address and port, modify the default values in the line of code:
