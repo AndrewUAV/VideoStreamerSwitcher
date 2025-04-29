@@ -1,6 +1,7 @@
 # VideoStreamerSwitcher
 This code was developed to capture video from a USB camera and stream it to a web page. It is designed for use on a Raspberry Pi.
-Code Features:
+
+## Code Features:
 Multiple video streams are transmitted via USB, but the Raspberry Pi cannot process/display them simultaneously.
 Therefore, to ensure proper functionality, the system was designed so that each device turns on and off when switching between streams.
 However, on a regular PC, it's possible to display two video streams at the same time without issues.
