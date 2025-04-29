@@ -7,7 +7,7 @@ Therefore, to ensure proper functionality, the system was designed so that each 
 However, on a regular PC, it's possible to display two video streams at the same time without issues.
 To use the code, follow these steps:
 
-Download the code.
+### Download the code.
 
 Install the required libraries:
  2.1. sudo apt install python3-flask
