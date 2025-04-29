@@ -10,7 +10,9 @@ To use the code, follow these steps:
 ### Using code.
 1. Download code.
 2. Install the required libraries:
+   
 2.1. sudo apt install python3-flask
+
 2.2. sudo apt install python3-opencv
 
 After installing the libraries, you can run the code.
