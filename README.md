@@ -11,9 +11,9 @@ To use the code, follow these steps:
 1. Download code.
 2. Install the required libraries:
    
-2.1. sudo apt install python3-flask
+   2.1. sudo apt install python3-flask
 
-2.2. sudo apt install python3-opencv
+   2.2. sudo apt install python3-opencv
 
 After installing the libraries, you can run the code.
 If you want to change the IP address and port, modify the default values in the line of code:
